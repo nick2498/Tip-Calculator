@@ -16,7 +16,7 @@ I always have trouble figuring out how much to tip when I eat out. I therefore m
 
 ## Project Link🚀
 
-****
+**https://demo-tip-calculator.netlify.app/**
 
 ## Creator⭐
 
