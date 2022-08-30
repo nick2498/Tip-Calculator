@@ -7,6 +7,13 @@ body {
   background: #8990ec;
 }
 
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin: 80px auto 0px auto;
+}
+
 .wrapper {
   height: 425px;
   width: 360px;
@@ -14,7 +21,7 @@ body {
   background: #272639;
   border-radius: 1rem;
   padding: 1.2rem;
-  margin: 100px auto;
+  margin: 30px auto;
 }
 
 #topContainer {
