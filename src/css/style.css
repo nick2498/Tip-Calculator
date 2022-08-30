@@ -8,7 +8,7 @@ body {
 }
 
 .wrapper {
-  height: 525px;
+  height: 425px;
   width: 360px;
   color: white;
   background: #272639;
@@ -18,7 +18,7 @@ body {
 }
 
 #topContainer {
-  margin-top: 4rem;
+  margin-top: 5rem;
 }
 
 .container {
@@ -74,7 +74,7 @@ body {
 }
 
 .buttonText {
-  color: #353959 !important;
+  color: #1b1d2d !important;
 }
 
 .splitAmount {
