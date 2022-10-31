@@ -30,13 +30,14 @@
   <body>
     <h1>Tip Calculator</h1>
     <div class="wrapper">
-      <div class="container" id="topContainer">
+      <div class="container topContainer" id="topContainer">
         <div class="title">Bill total</div>
         <div class="inputContainer">
           <span>₹</span>
           <input
             onkeyup="calculateBill()"
             type="text"
+            class="billTotalInput"
             id="billTotalInput"
             placeholder="0.00"
           />
@@ -50,25 +51,26 @@
           <input
             onkeyup="calculateBill()"
             type="text"
+            class="tipInput"
             id="tipInput"
             placeholder="10"
           />
         </div>
       </div>
 
-      <div class="container" id="bottom">
+      <div class="container bottom" id="bottom">
         <div class="splitContainer">
           <div class="title">People</div>
           <div class="controls">
             <span class="buttonContainer">
-              <button class="splitButton" onclick="increasePeople()">
-                <span class="buttonText">+</span>
+              <button class="splitButton" onclick="decreasePeople()">
+                <span class="buttonText">-</span>
               </button>
             </span>
             <span class="splitAmount" id="numberOfPeople">1</span>
             <span class="buttonContainer">
-              <button class="splitButton" onclick="decreasePeople()">
-                <span class="buttonText">-</span>
+              <button class="splitButton" onclick="increasePeople()">
+                <span class="buttonText">+</span>
               </button>
             </span>
           </div>

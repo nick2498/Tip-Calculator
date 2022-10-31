@@ -24,7 +24,7 @@ h1 {
   margin: 30px auto;
 }
 
-#topContainer {
+.topContainer {
   margin-top: 4rem;
 }
 
@@ -45,8 +45,8 @@ h1 {
   align-items: center;
 }
 
-#billTotalInput,
-#tipInput {
+.billTotalInput,
+.tipInput {
   font-size: 1.2rem;
   background: none;
   border: none;
@@ -89,7 +89,7 @@ h1 {
   margin: 0.8rem;
 }
 
-#bottom {
+.bottom {
   display: flex;
   justify-content: space-between;
 }
