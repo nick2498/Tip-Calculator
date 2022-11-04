@@ -3,8 +3,10 @@
 ## About📝
 
 ```
-I always have trouble figuring out how much to tip when I eat out. I therefore made my own tip calculator.
+- The tip calculator helps to calculate the tip as per the total bill.
+- It also helps to divide the bill and the tip between more than one person.
 ```
+<!-- I always have trouble figuring out how much to tip when I eat out. I therefore made my own tip calculator. -->
 
 ## Languages and Tools⚙️
 
