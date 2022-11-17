@@ -2,11 +2,9 @@
 
 ## About📝
 
-```
-- The tip calculator helps to calculate the tip as per the total bill.
-- It also helps to divide the bill and the tip between more than one person.
-```
-<!-- I always have trouble figuring out how much to tip when I eat out. I therefore made my own tip calculator. -->
+- **Features:** UI design, calculates the total bill per person.
+- **Tech Stack:** HTML, CSS, and JavaScript.
+- **Contribution:** Built the tip calculator that helps to calculate the tip as per the total cost. It also helps to divide the cost and tip between multiple people.
 
 ## Languages and Tools⚙️
 
